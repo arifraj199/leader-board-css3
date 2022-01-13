@@ -206,6 +206,6 @@ Media Queries
     }
     .all-courses {
         grid-column-gap: 0px;
-        grid-row-gap: 24pxs;
+        grid-row-gap: 24px;
     }
 }
